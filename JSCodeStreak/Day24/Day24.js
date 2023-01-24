@@ -1,3 +1,5 @@
+// Drum Kit
+
 const keys = Array.from(document.querySelectorAll('.key'));
 
 const keyCode = {
