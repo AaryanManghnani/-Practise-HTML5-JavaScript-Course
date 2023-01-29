@@ -1,4 +1,4 @@
-// Queue
+// Stack
 
 class Stack {
     // constructor
